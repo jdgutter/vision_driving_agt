@@ -1,0 +1,24 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Data & Artifacts
+tournament_grader/
+grader/
+bundle.py
+environment.yml
+*.th
+
+# OS files
+.DS_Store
+Thumbs.db
